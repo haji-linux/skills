@@ -3,7 +3,7 @@
 ## Project Overview
 
 - **Course**: GitHub Actions Masterclass
-- **Creator**: Shubham Londhe (TrainWithHaji)
+- **Creator**: haji-linux (TrainWithHaji)
 - **Audience**: Absolute beginners. Assumes Git/GitHub basics. No prior CI/CD experience.
 - **Goal**: By the end, a learner can push code to GitHub and have it auto-build a Docker image, push it to Docker Hub, and deploy to an EC2 instance.
 - **Style**: Super lean. Two workflows only. No advanced patterns (no matrix, no reusable workflows, no OIDC, no self-hosted runners). Concepts are introduced only when the next workflow needs them.
